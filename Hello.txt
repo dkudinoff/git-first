@@ -1,4 +1,4 @@
-print ("Hello world")
-print ("Whats up?")
-print ("HELLO MY DEAR FRIEND!!!!111")
-print ("Glad to see you")
+print ("Hello world;")
+print ("Whats up?;")
+print ("HELLO MY DEAR FRIEND!!!!111;")
+print ("Glad to see you;")
