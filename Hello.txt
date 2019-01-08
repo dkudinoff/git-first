@@ -1,3 +1,3 @@
-print ("Hello world")
-print ("Whats up?")
-print ("HELLO MY DEAR FRIEND!!!!111")
+print ("Hello world;")
+print ("Whats up?;")
+print ("HELLO MY DEAR FRIEND!!!!111;")
